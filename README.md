@@ -11,4 +11,6 @@ Material necesario:
  - 1 interfaz I2C/SPI
  - 2 cajas de montaje.
  - Cables y herramientas varias.
-Esquema [alt tag](https://github.com/ciberbull/temperatura/blob/main/Prototipo.jpg)
+   
+**Esquema de montaje**
+![Esquema de montaje](https://github.com/ciberbull/temperatura/blob/main/Prototipo.jpg)
